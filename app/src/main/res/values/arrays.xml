@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ExampleStyle" translatable="false">
+        <item>drawable/notification_material_bg=example_notification_bg</item>
+        <item>dimen/notification_corner_radius=example_corner_radius</item>
+    </string-array>
+</resources>

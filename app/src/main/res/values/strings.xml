@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Notification Styles</string>
+    <string name="pack_author">Your name</string>
+    <string name="oc_not_installed">Oxygen Customizer is not installed</string>
+    <string name="style_example">Example</string>
+</resources>
