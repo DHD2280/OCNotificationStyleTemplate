@@ -11,25 +11,14 @@
             android:value="@string/pack_author" />
 
         <activity
-            android:name=".MainActivity"
+            android:name="ExampleStyle"
             android:exported="true"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-
-        <activity-alias
-            android:name=".ExampleStyle"
-            android:exported="true"
-            android:label="@string/style_example"
-            android:targetActivity=".MainActivity">
+            android:label="@string/style_example">
             <intent-filter>
                 <action android:name="it.dhd.oxygencustomizer.notificationstyle" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
-        </activity-alias>
+        </activity>
 
     </application>
 
